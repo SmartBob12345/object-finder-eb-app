@@ -1,0 +1,11 @@
+body{
+    background-image: url(gradient-abstract-with-diagonal-lines-background_23-2150681223.avif);
+}
+#header{
+    width: 100%;
+    font-size: 30px;
+    margin-top: 0;
+}
+label{
+    font-weight: bold;
+}
